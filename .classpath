@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v8.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/aspectj-1.6.10-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/aspectjweaver.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-fileupload-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-fileupload-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-fileupload-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-fileupload-1.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-fileupload-1.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-io-2.11.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-io-2.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-io-2.11.0-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/commons-io-2.11.0-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/jstl-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/jstl-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-aop-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-aop-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-aop-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-aspects-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-aspects-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-aspects-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-beans-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-beans-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-beans-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-context-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-context-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-context-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-context-support-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-context-support-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-context-support-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-core-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-core-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-core-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-expression-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-expression-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-expression-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-instrument-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-instrument-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-instrument-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-instrument-tomcat-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-instrument-tomcat-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-instrument-tomcat-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-jdbc-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-jdbc-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-jdbc-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-jms-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-jms-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-jms-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-messaging-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-messaging-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-messaging-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-orm-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-orm-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-orm-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-oxm-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-oxm-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-oxm-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-test-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-test-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-test-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-tx-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-tx-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-tx-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-web-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-web-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-web-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-webmvc-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-webmvc-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-webmvc-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-webmvc-portlet-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-webmvc-portlet-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-webmvc-portlet-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-websocket-4.2.9.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-websocket-4.2.9.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/a867729/Desktop/All Jar Files/spring-websocket-4.2.9.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
